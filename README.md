@@ -12,17 +12,9 @@ After opening the app, the instructions are shown on the first screen. Click on 
 
 In the main scene, the user can focus the camera on one of two different images (images provided in folder Images). The app will play an audio describing the animal’s name, sound, and habitat and depict a 3D version of the animal on screen.
 
-Support 
-
-You can reach me at samanthakamath2000@gmail.com for questions.
-
 Authors and Acknowledgement
 
 The project was co-developed by Lydia Wang.
-
-Project Status
-
-This project is currently being updated to resolve bugs.
 
 
 
