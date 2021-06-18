@@ -14,7 +14,7 @@ In the main scene, the user can focus the camera on one of two different images 
 
 Authors and Acknowledgement
 
-The project was co-developed by Lydia Wang.
+The project was co-developed by Lydia Wang as part of a class project.
 
 
 
